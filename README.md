@@ -6,8 +6,7 @@ Sistema para la revisión de exámenes con el uso de una RNA - CNN
 Estas instrucciones te permitirán ejecutar el proyecto
 ### Pre-requisitos
 
-* Python
-* Pipenv
+* Tener Python previamente instalado
 * Conocimientos básicos de Python
 
 ### ¿Como ejecutar el sistema de revisión de exámenes sin generar problemas con otros posibles proyectos que tengo? 🔧
