@@ -3,7 +3,7 @@ Sistema para la revisión de exámenes con el uso de una RNA - CNN
 
 ## Comenzando
 
-Estas instrucciones te permitirán ejecutar el proyecto
+Estas instrucciones te permitirán ejecutar el sistema
 ### Pre-requisitos
 
 * Tener Python previamente instalado
